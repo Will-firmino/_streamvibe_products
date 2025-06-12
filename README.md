@@ -17,17 +17,17 @@
 
 ## 🚀 Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Will-firmino/_streamvibe_products.git
-   cd _streamvibe_products
-   ```
+Clone o repositório:
+```bash
+git clone https://github.com/Will-firmino/_streamvibe_products.git
+cd _streamvibe_products
+```
 
-2. Instale as dependências:
-   ```bash
-   npm install
-   # ou
-   yarn install
+Instale as dependências:
+```bash
+npm install
+# ou
+yarn install
    ```
 
 ## ⚙️ Como rodar
